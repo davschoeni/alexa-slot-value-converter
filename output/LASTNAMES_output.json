@@ -1,0 +1,26 @@
+{
+  "name": "LASTNAMES",
+  "values": [
+    {
+      "id": "",
+      "name": {
+        "value": "lopez",
+        "synonyms": []
+      }
+    },
+    {
+      "id": "",
+      "name": {
+        "value": "mayr",
+        "synonyms": []
+      }
+    },
+    {
+      "id": "",
+      "name": {
+        "value": "smith",
+        "synonyms": []
+      }
+    }
+  ]
+}

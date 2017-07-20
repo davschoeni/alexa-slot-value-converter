@@ -1,0 +1,33 @@
+{
+  "name": "FIRSTNAMES",
+  "values": [
+    {
+      "id": "",
+      "name": {
+        "value": "david",
+        "synonyms": []
+      }
+    },
+    {
+      "id": "",
+      "name": {
+        "value": "thomas",
+        "synonyms": []
+      }
+    },
+    {
+      "id": "",
+      "name": {
+        "value": "chris",
+        "synonyms": []
+      }
+    },
+    {
+      "id": "",
+      "name": {
+        "value": "steve",
+        "synonyms": []
+      }
+    }
+  ]
+}
